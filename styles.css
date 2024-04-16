@@ -128,6 +128,14 @@ button{
     margin: 16px;
 }
 
+button:hover{
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    background-color:  hsl(224, 32%, 35%);;
+    cursor: pointer;
+}
+
 .attribution{
     align-self: flex-end;
     justify-content: flex-end;
