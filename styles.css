@@ -23,7 +23,7 @@ body{
 .parte-azul{
     display: flex;
     flex-direction: column;
-    background-image: linear-gradient(to right,hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+    background-image: linear-gradient(to bottom,hsl(252, 100%, 67%),hsl(241, 81%, 54%));
     color: white;
     border-radius: 30px;
     align-items: center;
